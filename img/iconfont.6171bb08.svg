@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="heart" unicode="&#58895;" d="M724.263 763.583c-170.546 0-208.749-123.458-208.749-123.458s-47.005 123.458-217.554 123.458c-170.502 0-248.301-139.843-223.431-294.003 21.549-133.513 252.836-323.41 440.984-464.508 188.143 141.099 415.93 330.908 436.582 464.508 22.713 146.483-57.328 294.003-227.832 294.003z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
